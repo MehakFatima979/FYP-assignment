@@ -1,0 +1,13 @@
+c:\users\mehkf\documents\visual studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe.config
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csprojResolveAssemblyReference.cache
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.manageprojects.resources
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Properties.Resources.resources
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.csproj.GenerateResource.Cache
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.exe
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\bin\Debug\FYP1.pdb
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.exe
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.pdb
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Student.resources
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Home.resources
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Advisor.resources
+C:\Users\mehkf\Documents\Visual Studio 2015\Projects\FYP1\FYP1\obj\Debug\FYP1.Group_Students.resources
